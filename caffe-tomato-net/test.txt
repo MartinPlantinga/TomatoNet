@@ -1,0 +1,13 @@
+make: *** [.build_release/src/caffe/blob.o] Error 1
+make: *** Waiting for unfinished jobs....
+make: *** [.build_release/src/caffe/solvers/adagrad_solver.o] Error 1
+make: *** [.build_release/src/caffe/solvers/adadelta_solver.o] Error 1
+make: *** [.build_release/src/caffe/solvers/nesterov_solver.o] Error 1
+make: *** [.build_release/src/caffe/solvers/adam_solver.o] Error 1
+make: *** [.build_release/src/caffe/solvers/rmsprop_solver.o] Error 1
+make: *** [.build_release/src/caffe/solvers/sgd_solver.o] Error 1
+make: *** [.build_release/src/caffe/layer.o] Error 1
+make: *** [.build_release/src/caffe/internal_thread.o] Error 1
+make: *** [.build_release/src/caffe/common.o] Error 1
+make: *** [.build_release/src/caffe/net.o] Error 1
+make: *** [.build_release/src/caffe/parallel.o] Error 1
